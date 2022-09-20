@@ -33,5 +33,6 @@ if [ $ret -ne 0 ]; then
 exit $ret
 fi
 rm -rf build
+echo "Hello"
 
 exit
